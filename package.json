@@ -1,7 +1,7 @@
 {
-  "name": "wizard",
+  "name": "vampire",
   "version": "1.0.0",
-  "description": "Multi device whatsapp bot by Ajmal",
+  "description": "Multi device whatsapp bot by turbo777",
   "main": "starter.js",
   "type": "commonjs",
   "scripts": {
